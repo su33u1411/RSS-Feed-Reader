@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>First</title>
+<link>www.FirstLink.com</link>
+<description>this is the first link</description>
+</item>
+<item>
+<title>Second</title>
+<link>www.SecondLink.com</link>
+<description>this is the Second link</description>
+</item>
+<item>
+<title>Third</title>
+<link>www.ThirdLink.com</link>
+<description>this is the Third link</description>
+</item>
+<item>
+<title>Fourth</title>
+<link>www.FourthLink.com</link>
+<description>this is the Fourth link</description>
+</item>
+<item>
+<title>Fifth</title>
+<link>www.FifthLink.com</link>
+<description>this is the Fifth link</description>
+</item>
+<item>
+<title>Sixth</title>
+<link>www.SixthLink.com</link>
+<description>this is the Sixth link</description>
+</item>
+</news>
